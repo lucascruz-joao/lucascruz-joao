@@ -1,4 +1,4 @@
-# Opa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" style="max-width:100%;"> Tudo bom? Lucas Cruz
+# Opa! Tudo bom?
 
 <div>
   <a href="https://github.com/lucascruz-joao"></a>
